@@ -23,6 +23,9 @@ public class ClickOnForgotEmail {
 			
 			WebElement ForgotOnlineId =driver.findElement(By.id("forgot-oid"));
 			ForgotOnlineId.click();
+			
+			
+			//something
 
 	}
 
